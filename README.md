@@ -2,7 +2,7 @@
 
 A web application for users to pay for marijuana before picking it up at a dispensary. 
 
-### By _**Austin Minnon**_
+### By _**Austin Minnon & Andrew Telleria**_
 
 ## Prerequisites
 
@@ -40,4 +40,4 @@ http://austinminnon.github.io/cannabis-cart
 
 _MIT license_
 
-Copyright (c) 2016 _**Austin Minnon**_
+Copyright (c) 2016 _**Austin Minnon & Andrew Telleria**_
