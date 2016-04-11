@@ -1,7 +1,8 @@
-# Cannabis-cart
+# Cannabis Cart
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A web application for users to pay for marijuana before picking it up at a dispensary. 
+
+### By _**Austin Minnon**_
 
 ## Prerequisites
 
@@ -13,41 +14,30 @@ You will need the following things properly installed on your computer.
 * [Ember CLI](http://www.ember-cli.com/)
 * [PhantomJS](http://phantomjs.org/)
 
-## Installation
+## Setup & Installation
 
 * `git clone <repository-url>` this repository
 * change into the new directory
 * `npm install`
 * `bower install`
-
-## Running / Development
-
-* `ember server`
+* `ember i emberfire`
+* `ember i ember-bootstrap`
+* `ember build`
+* `ember s`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
+## Bugs
+  Cannot answer question inside of question route. Each category has many questions. Each question has many answers, and each answer belongs to a question. get of undefined. (cannot find category of  question???)
 
-Make use of the many generators for code, try `ember help generate` for more details
+## Technologies Used
 
-### Running Tests
+_Javascript, Ember, EmberFire, Node, Bower, Bootstrap_
 
-* `ember test`
-* `ember test --server`
+##GitHub Pages
+http://austinminnon.github.io/cannabis-cart
 
-### Building
+### License
 
-* `ember build` (development)
-* `ember build --environment production` (production)
+_MIT license_
 
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](http://emberjs.com/)
-* [ember-cli](http://www.ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
+Copyright (c) 2016 _**Austin Minnon**_
