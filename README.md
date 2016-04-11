@@ -1,6 +1,6 @@
 # Cannabis Cart
 
-A web application for users to pay for marijuana before picking it up at a dispensary. 
+A web application for users to purchase marijuana before picking it up at a dispensary. 
 
 ### By _**Austin Minnon & Andrew Telleria**_
 
